@@ -1,0 +1,1 @@
+print('Welcome to rock paper scissor!')
